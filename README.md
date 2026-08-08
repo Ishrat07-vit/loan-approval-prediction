@@ -6,11 +6,13 @@ The project includes data preprocessing, exploratory data analysis, model traini
 
 ---
 
-## 🚀 Live Project
+## 🚀 Live Demo
 
-The application is built using **Streamlit** and allows users to enter applicant information and receive an instant loan approval prediction.
+Try the deployed application:
 
-> Run the application locally using the instructions below.
+👉 **[Loan Approval Prediction App](https://loan-approval-prediction-07.streamlit.app/)**
+
+The application allows users to enter applicant details and receive a real-time loan approval prediction using the trained Machine Learning model.
 
 ---
 
